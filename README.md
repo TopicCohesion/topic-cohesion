@@ -7,7 +7,7 @@ Given a division topic_cohesion will calculate the human-subjective score, and t
 
 The POC to this attitude can be found in the [colab-notebook](https://colab.research.google.com/drive/1IFWKF3CFfzZWT9WucdISpDbLDI4mtTjX?usp=sharing), or in the ["Topic Cohesion Project- Full report"](https://github.com/TopicCohesion/topic-cohesion/blob/main/Cohesion%20Pipeline%20Project%20-%20Full%20Report.pdf)
 
-The useage example can be also found in the [colab-notebook-usage-example](https://colab.research.google.com/drive/1zAJs5px8HBMo99hPc-MhnlInKi7ze9yI?usp=sharing)
+The usage example can be also found in the [colab-notebook-usage-example](https://colab.research.google.com/drive/1zAJs5px8HBMo99hPc-MhnlInKi7ze9yI?usp=sharing)
 
 
 ## Installation
