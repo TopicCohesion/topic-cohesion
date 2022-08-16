@@ -17,9 +17,9 @@ pip install topic-cohesion
 ```
 
 ## Usage Example
-The input to the cohesion_score function must be a csv, txt, tsv file with a tab ['\t'] seperator and must have 'label' and 'text' columns.
-The 'text' is a list of strings which represents all the corpus senteces while the 'label' is a list of integers that repressents the corpus divison.
-In the next example, senteces 1, 2, 3 are belong to group 1 and senteces 4 and 5 belongs to group 2.
+The input to the topic cohesion process must be a csv, txt, tsv file with a tab ['\t'] seperator and must have 'label' and 'text' columns.
+The 'text' is a list of strings which represents all the corpus senteces while the 'label' is a list of integers that represents the corpus divison.
+In the next example, senteces 1-3 are belong to group 1 and senteces 4 and 5 belongs to group 2.
 
 ```python
 import pandas as pd
